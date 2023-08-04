@@ -1,5 +1,6 @@
 # 💫 About Me:
-## Sobre Mim 🌛<br><br>Olá! Sou Luana, estudante de ADS, onde foco desenvolvimento de software back-end, atualmente focando em aprender banco de dados, com ênfase no PostgreSQL, e desenvolvimento web usando Spring e Django.<br><br>### O Que Estou Estudando 🌟<br><br>Neste momento, estou me dedicando ao estudo aprofundado do PostgreSQL, explorando seus recursos e funcionalidades para armazenamento de dados de forma eficiente e segura.<br><br>Além disso, estou mergulhando no desenvolvimento web com o framework Spring, onde busco aprender como criar aplicações. Também estou explorando o Django, um framework ágil e poderoso para construção de aplicações web.<br><br><br>🌌 Agradeço pela visita ao meu perfil 🌌
+## Sobre Mim 🌛<br><br>Olá! Sou Luana, estudante de ADS, onde foco desenvolvimento de software back-end, atualmente focando em aprender banco de dados, com ênfase no PostgreSQL, e desenvolvimento web usando Spring e Django.<br><br>
+### O Que Estou Estudando 🌟<br><br>Neste momento, estou me dedicando ao estudo aprofundado do PostgreSQL, explorando seus recursos e funcionalidades para armazenamento de dados de forma eficiente e segura.<br><br>Além disso, estou mergulhando no desenvolvimento web com o framework Spring, onde busco aprender como criar aplicações. Também estou explorando o Django, um framework ágil e poderoso para construção de aplicações web.<br><br><br>🌌 Agradeço pela visita ao meu perfil 🌌
 
 
 ## 🌐 Socials:
