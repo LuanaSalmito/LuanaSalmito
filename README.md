@@ -1,9 +1,3 @@
-<br>
-Desenvolvedora backend especialista em Python, com expertise em frameworks como Django, FastAPI, Laravel e Spring. Meu foco está na criação de soluções robustas e escaláveis, podendo fazer até mesmo integração de Inteligência Artificial em aplicações de diversos segmentos.<br><br>
-
-Atualmente, meus estudos são focados em desenvolvimento backend, DevOps, e gerenciamento de banco de dados. Estou aprofundando meus conhecimentos em backend e deploy com Docker e Docker Compose, otimizando a implementação de aplicações escaláveis e eficientes. Além disso, exploro PostgreSQL para garantir armazenamento de dados seguro e eficiente.<br><br>
-
-Além disso, utilizo Docker e Docker Compose para otimizar o gerenciamento de ambientes e garantir a escalabilidade das aplicações.
 
 <br><br>🌌 Agradeço pela visita ao meu perfil 🌌
 
